@@ -6,7 +6,7 @@ This app uses the classic Menu as the initial state by default. You can preview 
 
 ![Display as RibbonBar](./Appeon.ModernUIApp/image/DisplayAsRibbonBar.png)
 
-Notice that the application contains the basic function modules about sales order processing. You can connect to *PB Demo DB V2025 (SQL Anywhere)* database to run it. To make this demo look closer to a real app, we have added more simulated menu items under the first Menu. Since there are no real Clicked event, they will only show a message.
+Notice that the application contains the basic function modules about sales order processing. You can connect to *PB Demo DB V2025R2 (SQL Anywhere)* database to run it. To make this demo look closer to a real app, we have added more simulated menu items under the first Menu. Since there are no real Clicked event, they will only show a message.
 
 ### Property Synchronization
 
